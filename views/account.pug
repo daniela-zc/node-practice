@@ -1,0 +1,12 @@
+extends layout
+
+block content
+	.inner
+		h2 #{title}
+		form(action='/account' method='POST')
+			laber(for='name') Name
+			input(type='text' name='name' value=user.name)
+			laber(for='email') Email
+			input(type='text' name='email' value=user.email)
+			input.button(type='submit' value='Update my account')
+

@@ -1,0 +1,14 @@
+//- // example
+//- .wrapper
+//- 	- const upName = name.toUpperCase();
+//- 	p hey #{upName}
+//- 	img.dog(src="dog.png" alt=`Dog ${dog}`)
+//- 	p My dog's name is: #{dog}
+
+
+
+extends layout
+
+
+block content
+	p Sale ends in #{h.moment().endOf('day').fromNow()}
