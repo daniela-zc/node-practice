@@ -3,43 +3,162 @@
 	{
 		"selected_items":
 		[
+			[
+				"cons",
+				"console"
+			],
+			[
+				"st",
+				"strainsObj"
+			],
+			[
+				"s",
+				"strains"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"sto",
+				"Stores"
+			],
+			[
+				"a",
+				"aggregate"
+			],
+			[
+				"n",
+				"newReview"
+			],
+			[
+				"he",
+				"heart"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"add",
+				"addListener"
+			],
+			[
+				"pla",
+				"place"
+			],
+			[
+				"in",
+				"inforWindow"
+			],
+			[
+				"ma",
+				"markers"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"se",
+				"search__result"
+			],
+			[
+				"search__",
+				"search__result"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"stor",
+				"Store"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ht",
+				"htmlToText"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"sen",
+				"sendMail"
+			],
+			[
+				"up",
+				"updatedUser"
+			],
+			[
+				"rese",
+				"resetPasswordToken"
+			],
+			[
+				"set",
+				"setPassword"
+			],
+			[
+				"resetPa",
+				"resetPasswordToken"
+			],
+			[
+				"mon",
+				"mongoDbErrorHandler"
+			],
+			[
+				"v",
+				"validator"
+			],
+			[
+				"tags",
+				"tagsPromise"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "routes/index.js",
+			"file": "/Users/danielazeledon/www/reactProfile/package.json",
 			"settings":
 			{
-				"buffer_size": 1683,
+				"buffer_size": 872,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "models/Store.js",
+			"contents": "Searching 26569 files for \"import bootstrap\"\n\n0 matches",
 			"settings":
 			{
-				"buffer_size": 1360,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "views/tag.pug",
-			"settings":
-			{
-				"buffer_size": 252,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "controllers/storeController.js",
-			"settings":
-			{
-				"buffer_size": 3420,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 55,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
 			}
 		}
 	],
@@ -80,25 +199,145 @@
 	"expanded_folders":
 	[
 		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious",
-		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers",
-		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models",
-		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/routes",
-		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views"
+		"/Users/danielazeledon/www/reactProfile"
 	],
 	"file_history":
 	[
+		"/Users/danielazeledon/www/reactProfile/danieProfile.json",
+		"/Users/danielazeledon/www/_potkin/webpack.config.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/routes/index.js",
+		"/Users/danielazeledon/www/PotKin/server/routes/admin/index.js",
+		"/Users/danielazeledon/www/PotKin/server/controllers/potController.js",
+		"/Users/danielazeledon/www/PotKin/package.json",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers/userController.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers/authController.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models/Store.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers/storeController.js",
+		"/Users/danielazeledon/www/PotKin/server/routes/index.js",
+		"/Users/danielazeledon/www/imgurApp/images.js",
+		"/Users/danielazeledon/www/PotKin/server/routes/api/counters.js",
+		"/Users/danielazeledon/www/PotKin/server/routes/api/potAPI.js",
+		"/Users/danielazeledon/www/PotKin/server/models/Counter.js",
+		"/Users/danielazeledon/www/PotKin/server/models/Strain.js",
+		"/Users/danielazeledon/www/PotKin/server.js",
+		"/Users/danielazeledon/www/PotKin/client/app/index.js",
+		"/Users/danielazeledon/www/PotKin/server/server.js",
+		"/Users/danielazeledon/www/PotKin/client/app/components/Admin/Config.js",
+		"/Users/danielazeledon/www/PotKin/client/app/components/App/App.js",
+		"/Users/danielazeledon/www/PotKin/client/app/components/HelloWorld/HelloWorld.js",
+		"/Users/danielazeledon/www/PotKin/client/app/components/Network/Network.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/package.json",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/delicious-app.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/dist/App.bundle.js",
+		"/Users/danielazeledon/www/PotKin/src/stylesheets/base.scss",
+		"/Users/danielazeledon/www/PotKin/src/stylesheets/home.scss",
+		"/Users/danielazeledon/www/PotKin/src/stylesheets/contact.scss",
+		"/Users/danielazeledon/www/potkin2/src/components/views/contact.jsx",
+		"/Users/danielazeledon/www/potkin2/src/routes.jsx",
+		"/Users/danielazeledon/www/potKinReact/app.js",
+		"/Users/danielazeledon/www/potKinReact/images.js",
+		"/Users/danielazeledon/www/potKinReact/README.md",
+		"/Users/danielazeledon/www/potKinReact/stylesheet.css",
+		"/Users/danielazeledon/www/potKinReact/package.json",
+		"/Users/danielazeledon/www/potkinNew/package.json",
+		"/Users/danielazeledon/www/imgurApp/package.json",
+		"/Users/danielazeledon/www/potkinNew/app.js",
+		"/Users/danielazeledon/www/potKin/app.js",
+		"/Users/danielazeledon/www/react-expressjs/client/src/consts/action_types.js",
+		"/Users/danielazeledon/www/react-expressjs/client/src/components/list_items.js",
+		"/Users/danielazeledon/www/react-expressjs/server/routes/ssr.js",
+		"/Users/danielazeledon/www/react-expressjs/server/bin/server.js",
+		"/Users/danielazeledon/www/react-expressjs/LICENSE",
+		"/Users/danielazeledon/www/react-expressjs/.eslintignore",
+		"/Users/danielazeledon/www/react-expressjs/package.json",
+		"/Users/danielazeledon/www/potKin/package.json",
+		"/Users/danielazeledon/www/react-expressjs/client/src/containers/list_item_preview.js",
+		"/Users/danielazeledon/www/react-expressjs/client/src/app.js",
+		"/Users/danielazeledon/www/react-expressjs/client/src/components/list_item_preview.js",
+		"/Users/danielazeledon/www/potKin/routes/index.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/app.js",
+		"/Users/danielazeledon/www/potKin/helpers.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/helpers.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/handlers/errorHandlers.js",
+		"/Users/danielazeledon/www/potKin/handlers/errorHandlers.js",
+		"/Users/danielazeledon/www/potKin/package-lock.json",
+		"/Users/danielazeledon/www/potKinNew/package.json",
+		"/Users/danielazeledon/www/potKinNew/app.js",
+		"/Users/danielazeledon/www/potKinNew/components/App.js",
+		"/Users/danielazeledon/www/potKinNew/README.md",
+		"/Users/danielazeledon/www/potKin/webpack.config.js",
+		"/Users/danielazeledon/www/potKin/views/App.js",
+		"/Users/danielazeledon/www/potKin/components/App.js",
+		"/Users/danielazeledon/www/potKin/engine.js",
+		"/Users/danielazeledon/www/potKin/hello.js",
+		"/Users/danielazeledon/www/potKin/index.html",
+		"/Users/danielazeledon/www/imgurApp/app.js",
+		"/Users/danielazeledon/www/imgurApp/index.html",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/webpack.config.js",
+		"/Users/danielazeledon/www/imgurApp/webpack.config.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/start.js",
+		"/Users/danielazeledon/www/imgurApp/bundle.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/variables.env",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/variables.env.now",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/.gitignore",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/stores.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_pagination.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models/Review.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_storeCard.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/topStores.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/data/load-sample-data.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/store.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_review.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models/User.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers/reviewController.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_reviewForm.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/modules/heart.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/register.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_storeForm.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/modules/map.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/map.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/modules/typeAhead.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/data/stores.json",
+		"/Users/danielazeledon/www/Learn-Node/stepped-solutions/34/controllers/userController.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/handlers/mail.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/node_modules/async-foreach/dist/ba-foreach.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/modules/bling.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/reset.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/public/javascripts/modules/autocomplete.js",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/readme.md",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_forgotForm.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/login.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/mixins/_loginForm.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/account.pug",
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/handlers/passport.js",
+		"/Users/danielazeledon/www/Learn-Node/stepped-solutions/34/routes/index.js",
 		"/Users/danielazeledon/www/Learn-Node/stepped-solutions/34/models/Store.js",
-		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/package.json"
+		"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views/tag.pug"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious",
+			"/Users/danielazeledon/www/PotKin/server",
+			"/Users/danielazeledon/www/PotKin",
+			"/Users/danielazeledon/www/PotKin/server",
+			"/Users/danielazeledon/www/PotKin",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/views",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/routes",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/models",
+			"/Users/danielazeledon/www/PotKin/server",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious/controllers",
+			"/Users/danielazeledon/www/Learn-Node/dang-thats-delicious"
 		]
 	},
 	"find_state":
@@ -106,6 +345,69 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jq",
+			"import bootstrap",
+			"bootstrap",
+			"node",
+			"resize",
+			"promisify",
+			"get",
+			"eac",
+			"each",
+			"for",
+			"models",
+			"model",
+			"new",
+			"confirmOwner",
+			"routes",
+			"find",
+			"es6",
+			"es",
+			"App/App",
+			"/api/search",
+			"api",
+			"axios",
+			"flas",
+			"Provider",
+			"js",
+			"eng",
+			"pre",
+			"sty",
+			"sty]",
+			"pot",
+			"uglify",
+			"reso",
+			"modu",
+			"loa",
+			"webpack",
+			"webpac",
+			"getStores",
+			"mong",
+			"mon",
+			"$lookup",
+			"aut",
+			"pug",
+			"rende",
+			"delicious-app",
+			"register",
+			"passportLocalMongoose",
+			"mongoose",
+			"kar",
+			"plu",
+			"ke",
+			"_id",
+			"path",
+			"pa",
+			"pat",
+			"variables.env",
+			"process",
+			"DATABASE",
+			"password-confirm",
+			"find",
+			"logout",
+			"es6-promisify",
+			"authController",
+			"nex"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -123,16 +425,45 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "routes/index.js",
+					"file": "/Users/danielazeledon/www/reactProfile/package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1683,
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
 						"regions":
 						{
 						},
@@ -145,100 +476,20 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "models/Store.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1360,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1141,
-								1141
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 363.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "views/tag.pug",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 252,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								61,
-								61
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "controllers/storeController.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3161,
-								3161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1677.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -246,11 +497,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -275,6 +526,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -283,7 +538,7 @@
 	"project": "dang-thats-delicious.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -306,12 +561,12 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -321,7 +576,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 289.0,
+	"side_bar_width": 347.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
